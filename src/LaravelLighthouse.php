@@ -5,7 +5,6 @@ declare(strict_types=1);
 namespace AdityaDees\LaravelLighthouse;
 
 use AdityaDees\LaravelLighthouse\Exceptions\ErrorException;
-use Exception;
 use Symfony\Component\Process\Exception\ProcessFailedException;
 use Symfony\Component\Process\Process;
 
