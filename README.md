@@ -1,5 +1,5 @@
 # laravel-lighthouse
- Automatically Audit Desktop and Mobile Websites dengan Google Chrome Lighthouse Wrapper for Laravel
+ Automatically Audit Desktop and Mobile Websites using Google Lighthouse Wrapper for Laravel
 
 run
 `composer require adityadees/laravel-lighthouse`
