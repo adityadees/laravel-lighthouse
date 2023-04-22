@@ -12,7 +12,7 @@ class LaravelLighthouseServiceProvider extends ServiceProvider
     {
         $this->publishes([
             __DIR__ . '/../config/laravel-lighthouse.php' => config_path('laravel-lighthouse.php'),
-        ], 'config');
+        ], 'laravel-lighthouse');
     }
 
     public function register(): void
