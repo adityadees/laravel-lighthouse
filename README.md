@@ -64,6 +64,9 @@ https://github.com/GoogleChrome/lighthouse
 
 if you following the configuration example the results should be like this
 - Inside folder `public` you can see the results `.html` and `.json`
+
+https://github.com/adityadees/laravel-lighthouse/tree/main/example-results/laravel-lighthouse
+
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/37553901/233770747-1de6da10-a59b-4ecc-bffd-7fff4af68a5a.png">
 
 if you open the `.html` you can see the results like this
