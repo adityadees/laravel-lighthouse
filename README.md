@@ -1,6 +1,12 @@
 # laravel-lighthouse
  Automatically Audit Desktop and Mobile Websites dengan Google Chrome Lighthouse Wrapper for Laravel
 
+run
+`composer require adityadees/laravel-lighthouse`
+then 
+`php artisan vendor:publish --tag=laravel-lighthouse`
+
+
 
 Before use this package you need define variable on `config/laravel-lighthouse.php` as global config
 
