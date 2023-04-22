@@ -54,3 +54,18 @@ $lighouse = (new LaravelLighthouse())->selfConfiguration('https://adityadees.com
 
 for more information about the flag you can visit
 https://github.com/GoogleChrome/lighthouse
+
+
+if you following the configuration example the results should be like this
+- Inside folder `public` you can see the results `.html` and `.json`
+<img width="271" alt="image" src="https://user-images.githubusercontent.com/37553901/233770747-1de6da10-a59b-4ecc-bffd-7fff4af68a5a.png">
+
+if you open the `.html` you can see the results like this
+
+Desktop
+
+![image](https://user-images.githubusercontent.com/37553901/233770848-8e45ad77-5b37-4363-96bb-42cec52cdb8a.png)
+
+
+Mobile
+![image](https://user-images.githubusercontent.com/37553901/233770874-5a7d8740-e09a-43d6-8a4f-532023f0c603.png)
