@@ -1,6 +1,8 @@
 # laravel-lighthouse
  Automatically Audit Desktop and Mobile Websites using Google Lighthouse Wrapper for Laravel
-
+ The audit results that have been completed will be saved automatically in your server directory.
+ 
+ 
 run
 `composer require adityadees/laravel-lighthouse`
 then 
