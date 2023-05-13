@@ -1,6 +1,7 @@
 {
     "name": "adityadees/laravel-lighthouse",
-    "description": "Google Chrome Lighthouse Wrapper for Laravel to Auotomatic Audit Website Desktop and Mobile",
+    "description": "Package wrapper for laravel framework which can make it easier for you to run Google Lighthouse to audit websites.",
+    "keyword": ["google-lighthouse","laravel","lighthouse","ligthouse-audits"],
     "license": "MIT",
     "autoload": {
         "psr-4": {
