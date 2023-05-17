@@ -1,6 +1,5 @@
 # laravel-lighthouse
- Automatically Audit Desktop and Mobile Websites using Google Lighthouse Wrapper for Laravel
- The audit results that have been completed will be saved automatically in your server directory.
+A Google Lighthouse wrapper for laravel framework which can make it easier for you to run Google Lighthouse to audit websites. The audit results that have been completed will be saved automatically in your server directory.
  
  
 run
